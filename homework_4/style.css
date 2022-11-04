@@ -1,0 +1,209 @@
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font: 0;
+}
+header {
+    height: 100px;;
+    background-color: rgb(255, 0, 221);
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+ }
+ 
+body {
+    background-color: rgb(236, 246, 236);
+}
+
+.container {
+   display: flex;
+   flex-wrap: wrap;
+   row-gap: 30px;
+   column-gap: 30px;
+   padding-top: 50px;
+}
+
+
+.box1 {
+    width: 250px;
+    height: 300px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: white;
+    background-image: url(https://www.artlife.ru/upload/seo_cache/-upload-iblock-13d-13d9ef58ab2cb50c1f01d3791108879b.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat; 
+    background-position: 5px 120px;
+    text-align: center;
+    font-weight: 600;
+    margin-left: 1.5%;
+    margin-bottom: 2.5%;  
+}
+
+.box2 {
+    width: 250px;
+    height: 300px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: white;
+    background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-72c-72ca4db2127474ee353aea41b6001e37.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    background-position: 5px 120px;
+    text-align: center;
+    font-weight: 600; 
+    margin-left: 2.5%;   
+} 
+
+.box3 {
+width: 250px;
+height: 300px;
+border: 2px solid;
+border-color: black;
+border-radius: 15px;
+background-color: white;
+background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-c32-c32d468488fe1553e2b9c518bd8e249c.jpg);
+background-size: 250px 150px;
+background-repeat: no-repeat;
+background-position: 5px 140px;
+text-align: center;
+font-weight: 600; 
+margin-left: 2.5%;
+}
+
+ .box4 {
+    width: 250px;
+    height: 300px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: white;
+    background-image: url(https://www.artlife.ru/upload/seo_cache/-upload-iblock-f1a-f1a4aad0da0a06175c9482ea38844482.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    background-position: 5px 120px;
+    text-align: center;
+    font-weight: 600;
+    margin-left: 2.5%; 
+ }
+
+ .box5 {
+   width: 250px;
+    height: 300px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: white;
+    background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-469-4690fb970463a2b1dd59d009685945d5.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    background-position: 5px 120px;
+    text-align: center;
+    font-weight: 600;
+    margin-right: 2.5%;
+    margin-left: 1.5%;   
+ }
+
+ .box6 {
+   width: 250px;
+    height: 300px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: white;
+    background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-125-1251dcae2d9bced0e78dc78f6f59b7d4.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    background-position: 5px 120px;
+    text-align: center;
+    font-weight: 600;
+    margin-left 2.5%;  
+    margin-bottom: 2%;
+ }
+
+    .box7 {
+      width: 250px;
+       height: 300px;
+       border: 2px solid;
+       border-color: black;
+       border-radius: 15px;
+       background-color: white;
+       background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-46b-46b46662b22c0fd8b89835cad5302175.jpg);
+       background-size: 250px 150px;
+       background-repeat: no-repeat;
+       background-position: 5px 120px;
+       text-align: center;
+       font-weight: 600;
+       margin-left: 2.5%;  
+       margin-bottom: 2%;
+    }
+
+    .box8 {
+      width: 250px;
+       height: 300px;
+       border: 2px solid;
+       border-color: black;
+       border-radius: 15px;
+       background-color: white;
+       background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-9d5-9d56561e79ae62d75b098992ee68339b.jpg);
+       background-size: 250px 150px;
+       background-repeat: no-repeat;
+       background-position: 5px 120px;
+       text-align: center;
+       font-weight: 600;
+       margin-left: 2.5%;  
+       margin-bottom: 2%;
+    }
+
+    .box9 {
+      width: 250px;
+       height: 300px;
+       border: 2px solid;
+       border-color: black;
+       border-radius: 15px;
+       background-color: white;
+       background-image: url(https://artlife.ru/upload/seo_cache/-upload-iblock-98d-98d9fe5f2a1a7fba981474e4c21771d0.jpg);
+       background-size: 250px 150px;
+       background-repeat: no-repeat;
+       background-position: 5px 120px;
+       text-align: center;
+       font-weight: 600;
+       margin-left: 1.5%;  
+       margin-bottom: 2%; 
+    }
+
+    .box10 {
+      width: 250px;
+       height: 300px;
+       border: 2px solid;
+       border-color: black;
+       border-radius: 15px;
+       background-color: white;
+       background-image: url(https://www.artlife.ru/upload/seo_cache/-upload-iblock-383-38397fabb70eb73e6047e74a7eaebb4e.jpg);
+       background-size: 250px 150px;
+       background-repeat: no-repeat;
+       background-position: 5px 120px;
+       text-align: center;
+       font-weight: 600;
+       margin-right: 3%;
+       margin-left: 2.5%; 
+       margin-bottom: 2%; 
+    }
+
+ footer {
+    height: 100px;
+    background-color: aqua;
+    text-align: center;
+    font-weight: 600;
+    color: black;
+    
+ }
